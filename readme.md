@@ -60,7 +60,7 @@ ANIMAL Cat <br />
 ###Code Coverage:
 Installed Jacoco plugin in Eclipse, and right click on CategoryFileTest.java file Coverage As Junit Test. and got the below report.  
    
-   ![alt text](jacocoCodecoverageReport.png "Code Coverage")
+   ![alt text](jacocoCodecoverageReport.PNG "Code Coverage")
 
 ###PMD: 
 Installed PMD plugin in Eclipse, and right click on project-> PMD -> Check Code.and not found any critical violations.
